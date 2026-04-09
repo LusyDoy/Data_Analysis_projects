@@ -2,7 +2,7 @@
 
 This project analyzes Airbnb listing data using Python and the Pandas library. The dataset is cleaned by removing duplicates, handling missing values, renaming columns and converting price information into numeric values.
 
-After cleaning the data, in the project I explores:
+After cleaning the data, in the project I explore:
 - Average Airbnb prices by neighbourhood 
 - Price differences between room types
 - Listings with low availability
@@ -12,7 +12,7 @@ After cleaning the data, in the project I explores:
 
 # Second Project - Cleaned and analyzed Netflix data to explore movie and TV show trends by country, release year and genre
 
-After cleaning the data, in the project I explores:
+After cleaning the data, in the project I explore:
 - Number of Movies versus TV shows
 - Countries with the most Netflix titles
 - Titles released each year
